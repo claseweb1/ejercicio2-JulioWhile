@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.introduccion {
+    border-style: solid;
+    border-color: #800080;
+    border-width: 1px;
+    border-radius: 10px;
+}
+
+.titulo {
+    color: blue;
+    font-size: 12px;
+}
+
+.subtitulo {
+    color: red;
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+.informacion {
+    color: white;
+    font-size: 14px;
+}
+
+.registro {
+    font-size: 14px;
+}
+
+.hacker-img {
+    border-radius: 1000px;
+    margin-left: 150px;
+    width: 280px;
+}
+
+.formulario-registro {
+    color: white;
+}
